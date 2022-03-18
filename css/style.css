@@ -87,3 +87,8 @@ ul, .ul {
     font-family: 'Lora', serif;
     margin-top: 25px;
 }
+
+.navback {
+    background-color: #e8e8e8 !important;
+}
+
