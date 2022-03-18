@@ -14,3 +14,8 @@
     font-size: 70px;
     font-family: 'DM Serif Display', serif;
 }
+
+.cardtitle {
+    color: #212529;
+    text-decoration: none;
+}
