@@ -98,3 +98,12 @@ ul, .ul {
     background-color: #e8e8e8 !important;
 }
 
+.byline {
+    font-size: 16px;
+    max-width: 70%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Lora', serif;
+    margin-top: 10px;
+}
